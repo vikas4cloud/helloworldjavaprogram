@@ -1,5 +1,5 @@
-public class Simple{
-public static void main(String args[]){
-System.out.println("hello java Vikas program");
-  System.out.println("hello java Vikas program and CI");
-}}
+class Simple{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java");  
+    }  
+}  
